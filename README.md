@@ -20,7 +20,7 @@ Installation
 ---
 1. Install the Chargebee PHP libraries from https://apidocs.chargebee.com/docs/api?lang=php#versions
 
-2. Download this [file](./Controller/Components/ChargeBeeComponent.php) and copy to the Controller/Component folder of your CakePHP application.
+2. Download this [file](https://github.com/jasongray/ChargeBee-Component-CakePHP-2.0/archive/master.zip) and copy to the Controller/Component folder of your CakePHP application.
 
 ---
 Setup
